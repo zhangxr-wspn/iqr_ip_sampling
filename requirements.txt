@@ -1,0 +1,10 @@
+pytorch_transformers==1.2.0
+seaborn==0.11.1
+matplotlib
+numpy
+sklearn
+pandas
+regex
+requests
+tqdm
+fast_bleu
